@@ -1,0 +1,4 @@
+Visual Studio Code 2022 //Mit Visual Studio(C#) haben wir unseren Code für das Programm Geschrieben (Task, Taskmanager). 
+Violet Uml Editor	//Mit dem Violet Uml Editor haben wir die Klassendiagramme für den Coder erstellt.
+GIT Bash		//Bei Git Bash haben wir unsere Bilder/Programme/Dateien hochgeladen und Push/Pull/Commit verwendet. Mit Command Prom.
+Discord / Teams		//Über Discord und Teams haben wir uns Ausgetauscht und Kommuniziert.
